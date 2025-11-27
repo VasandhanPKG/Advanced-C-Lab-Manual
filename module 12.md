@@ -40,8 +40,10 @@ Thus, the program to display stack elements using linked list is verified succes
 
 
 
+
 EXP.NO 27: C PROGRAM TO POP AN ELEMENT FROM THE GIVEN STACK USING 
 LINKED LIST.
+
 Aim:
 To write a C program to pop an element from the given stack using liked list.
 
@@ -80,6 +82,7 @@ Output:
 Result:
 Thus, the program to pop an element from the given stack using liked list is verified successfully.
 
+
  
 EXP NO:28 C PROGRAM TO DISPLAY QUEUE ELEMENTS USING LINKED LIST.
 Aim:
@@ -90,6 +93,7 @@ Algorithm:
 3.	Print the data of the current node pointed to by front
 4.	Update front to point to the next node.
 5.	End the display function.
+
  
 Program:
 
@@ -123,8 +127,10 @@ Result:
 Thus, the program to display queue elements using linked list is verified successfully.
 
 
+
  
 EXP NO:29 C PROGRAM TO INSERT ELEMENTS IN QUEUE USING LINKED LIST
+
 
 Aim:
 To write a C program to insert elements in queue using linked list
@@ -136,6 +142,7 @@ Algorithm:
 4.	Set both front and rear to point to the new node p.
 5.	Set the next pointer of the current rear to point to the new node p.
 6.	End of Enqueue Operation
+
  
 Program:
 
@@ -171,12 +178,14 @@ Thus, the program to insert elements in queue using linked list is verified succ
 
 
 
+
 EXP NO:30 C FUNCTION TO FIND THE PEEK OF QUEUE USING LINKED LIST.
 
 
 Aim:
 
 The aim of this function is to retrieve the "peek" (the front element) of a queue implemented using a linked list
+
 
 Algorithm:
 
@@ -198,6 +207,7 @@ void peek()
     printf("%c",front->data);
 }
 `````
+
 
 Output:
 
