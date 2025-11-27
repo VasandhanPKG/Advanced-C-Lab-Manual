@@ -40,6 +40,7 @@ int n1,n2,n3,n4,greater; scanf("%d%d%d%d",&n1,&n2,&n3,&n4); greater=max_of_four(
 `````
 
 Output:
+
 ![image](https://github.com/user-attachments/assets/236e60b5-5763-4381-bce9-13d31ef07a60)
 
 Result:
@@ -140,6 +141,7 @@ int ppshelno; scanf("%d",&ppshelno); printf("%d",nobookarr[ppshelno]);
 `````
 
 Output:
+
 ![image](https://github.com/user-attachments/assets/e8f70fbc-1895-4dcf-ac4e-af63c283c2f8)
 
 
@@ -178,6 +180,7 @@ printf("%d",sum);
 `````
 
 Output:
+
 ![image](https://github.com/user-attachments/assets/f2427637-cc96-4d84-9dc1-89016929874c)
 
  
@@ -229,6 +232,7 @@ int main()
 `````
 
 Output:
+
 ![image](https://github.com/user-attachments/assets/a0f8208c-26e5-4dfd-9556-4d83716dc0c3)
 
 
