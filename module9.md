@@ -32,6 +32,7 @@ Output:
 
 Result:
 Thus, the program to display stack elements using an array is verified successfully.
+
  
 
 EXP NO:12  PROGRAM TO PUSH THE GIVEN ELEMENT IN TO A STACK USING ARRAY.
@@ -69,6 +70,7 @@ Output:
 
 Result:
 Thus, the program to push the given element in to a stack using array is verified successfully
+
 
 
  
@@ -111,6 +113,7 @@ Result:
 Thus, the program to display queue elements using array is verified successfully.
 
 
+
  
 EXP NO:14 C PROGRAM TO INSERT ELEMENTS IN QUEUE USING ARRAY.
 Aim:
@@ -147,6 +150,7 @@ Output:
 
 Result:
 Thus, the program to insert elements in queue using array is verified successfully.
+
 
 
 
